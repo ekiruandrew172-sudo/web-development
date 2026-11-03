@@ -1,0 +1,31 @@
+SpendWise – Website Deployment
+Project Description
+
+SpendWise is a personal finance management website designed to help users monitor expenses, manage budgets and improve their financial habits.
+
+Deployment Technologies
+HTML
+CSS
+JavaScript
+GitHub
+Netlify
+Deployment Process
+Organized the project files for deployment.
+Created a public GitHub repository.
+Uploaded the SpendWise project to GitHub.
+Connected the repository to Netlify.
+Deployed the website.
+Customized the Netlify site name.
+Tested continuous deployment by pushing a visible update to GitHub.
+Verified the deployed website.
+Live Website
+
+https://YOUR-SITE-NAME.netlify.app
+
+GitHub Repository
+
+https://github.com/YOUR-USERNAME/SpendWise
+
+Conclusion
+
+The SpendWise project was prepared for public deployment using GitHub and Netlify. Continuous deployment allows updates pushed to GitHub to be automatically published to the live website.
